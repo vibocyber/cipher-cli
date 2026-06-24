@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+key.json
+drop.json
+recovered.txt
